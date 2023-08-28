@@ -1,0 +1,4 @@
+Morchio Giacomo s4493336
+
+Nel caso fosse necessario, questo e' il link al mio repository pubblico che ho utilizzato per questo laboratorio
+https://github.com/Jackmaster98/Labo-5-SSGS
